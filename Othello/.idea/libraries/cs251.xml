@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cs251">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab2.jar!/cs251" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
